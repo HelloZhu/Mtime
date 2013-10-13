@@ -1,0 +1,199 @@
+{
+    "cinemas": [
+        {
+            "cinemaId": 2972,
+            "cinemaName": "乐田奥特国际影城",
+            "address": "长沙天心区芙蓉南路三段27号友阿奥特莱斯购物公园17栋2楼",
+            "etickets": [
+                {
+                    "id": 218,
+                    "name": "普通电子券",
+                    "price": 3700,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                },
+                {
+                    "id": 217,
+                    "name": "3D电子券",
+                    "price": 4700,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                }
+            ],
+            "coupons": []
+        },
+        {
+            "cinemaId": 2518,
+            "cinemaName": "银星时尚国际影城",
+            "address": "长沙市黄兴南路步行商业街中心广场北段E区4楼",
+            "etickets": [
+                {
+                    "id": 114,
+                    "name": "普通电子券",
+                    "price": 2700,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                },
+                {
+                    "id": 113,
+                    "name": "3D电子券",
+                    "price": 3700,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                }
+            ],
+            "coupons": []
+        },
+        {
+            "cinemaId": 1575,
+            "cinemaName": "湖南大剧院",
+            "address": "长沙市韶山路139号",
+            "etickets": [
+                {
+                    "id": 112,
+                    "name": "普通电子券",
+                    "price": 3000,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                },
+                {
+                    "id": 111,
+                    "name": "3D电子券",
+                    "price": 4000,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                }
+            ],
+            "coupons": []
+        },
+        {
+            "cinemaId": 3870,
+            "cinemaName": "乐田星都国际影城",
+            "address": "长沙县星沙板仓南路26号尚都花园城6栋二层",
+            "etickets": [
+                {
+                    "id": 1122,
+                    "name": "普通电子券",
+                    "price": 3700,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                },
+                {
+                    "id": 1121,
+                    "name": "3D电子券",
+                    "price": 4200,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                }
+            ],
+            "coupons": []
+        },
+        {
+            "cinemaId": 1574,
+            "cinemaName": "幕语汽车影苑",
+            "address": "湖南省长沙市岳麓区银盆南路转景秀路王陵公园内",
+            "etickets": [
+                {
+                    "id": 1215,
+                    "name": "普通影片电子券",
+                    "price": 3000,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                },
+                {
+                    "id": 1214,
+                    "name": "汽车电影影片电子券",
+                    "price": 8000,
+                    "quantity": 0,
+                    "stockMode": 0,
+                    "limitCount": "12",
+                    "desc": "",
+                    "merchantId": 1077,
+                    "indateMode": 1,
+                    "indateDays": 90,
+                    "startTime": -62135596800,
+                    "endTime": -62135596800
+                }
+            ],
+            "coupons": [
+                {
+                    "id": 11316,
+                    "name": "",
+                    "type": 0,
+                    "imagePath": "http://img31.mtime.cn/mg/2013/07/22/100300.95396307.jpg",
+                    "announce1": "此券只限购买电影票时在原票价基础上享有优惠，不能与影城其它优惠活动同时使用。",
+                    "announce2": "此券不得兑换现金，不得转卖。",
+                    "announce3": "此券在特殊优惠活动、明星见面会中不得使用。",
+                    "phone": "0731-88803888",
+                    "address": "",
+                    "discount": 8,
+                    "startTime": 0,
+                    "endTime": 1382054400
+                }
+            ]
+        }
+    ]
+}

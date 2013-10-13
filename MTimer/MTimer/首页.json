@@ -1,0 +1,1423 @@
+{
+    "lid": 290,
+    "bImg": "http://img31.mtime.cn/mg/2013/08/05/145711.21645492.jpg",
+    "date": "2013-08-29",
+    "ms": [
+        {
+            "id": 197423,
+            "t": "被偷走的那五年",
+            "tCn": "被偷走的那五年",
+            "tEn": "The Stolen Years",
+            "r": 7,
+            "rc": 1000,
+            "img": "http://img31.mtime.cn/mt/2013/08/15/144545.23240461_500X500.jpg",
+            "dN": "黄真真",
+            "aN1": "白百何",
+            "aN2": "张孝全",
+            "p": [
+                "爱情",
+                "剧情"
+            ],
+            "rd": "20130829",
+            "d": "108分钟",
+            "cC": 103,
+            "sC": 1009,
+            "rsC": 0,
+            "NearestCinemaCount": 101,
+            "NearestShowtimeCount": 670,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": true,
+            "isTicket": true,
+            "commonSpecial": "有些人，在心底从来没忘记",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 138493,
+            "t": "海啸奇迹",
+            "tCn": "海啸奇迹",
+            "tEn": "The Impossible",
+            "r": 8,
+            "rc": 1543,
+            "img": "http://img31.mtime.cn/mt/2013/08/05/114441.21187107_500X500.jpg",
+            "dN": "胡安·安东尼奥·巴亚纳",
+            "aN1": "娜奥米·沃茨",
+            "aN2": "伊万·麦克格雷格",
+            "p": [
+                "剧情",
+                "历史",
+                "惊悚"
+            ],
+            "rd": "20130829",
+            "d": "114分钟",
+            "cC": 100,
+            "sC": 714,
+            "rsC": 0,
+            "NearestCinemaCount": 97,
+            "NearestShowtimeCount": 482,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": true,
+            "isTicket": false,
+            "commonSpecial": "真实灾难下的折磨遭遇",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 134940,
+            "t": "怪兽大学",
+            "tCn": "怪兽大学",
+            "tEn": "Monsters University",
+            "r": 8.1,
+            "rc": 5150,
+            "img": "http://img31.mtime.cn/mt/2013/08/05/100850.29027469_500X500.jpg",
+            "dN": "丹·斯坎隆",
+            "aN1": "比利·克里斯托",
+            "aN2": "约翰·古德曼",
+            "p": [
+                "动画",
+                "冒险",
+                "喜剧",
+                "家庭",
+                "奇幻"
+            ],
+            "rd": "20130823",
+            "d": "104分钟",
+            "cC": 104,
+            "sC": 1386,
+            "rsC": 0,
+            "NearestCinemaCount": 104,
+            "NearestShowtimeCount": 932,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "为什么要吓人类？因为人类打怪兽",
+            "is3D": true,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                },
+                {
+                    "enum": 2,
+                    "version": "3D"
+                }
+            ]
+        },
+        {
+            "id": 13057,
+            "t": "侏罗纪公园",
+            "tCn": "侏罗纪公园",
+            "tEn": "Jurassic Park",
+            "r": 8.1,
+            "rc": 8952,
+            "img": "http://img31.mtime.cn/mt/2013/08/07/102439.77048848_500X500.jpg",
+            "dN": "史蒂文·斯皮尔伯格",
+            "aN1": "山姆·尼尔",
+            "aN2": "劳拉·邓恩",
+            "p": [
+                "冒险",
+                "科幻"
+            ],
+            "rd": "20130820",
+            "d": "127分钟",
+            "cC": 103,
+            "sC": 1095,
+            "rsC": 0,
+            "NearestCinemaCount": 103,
+            "NearestShowtimeCount": 771,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "很逼真，蛮吓人",
+            "is3D": true,
+            "isIMAX": true,
+            "versions": [
+                {
+                    "enum": 2,
+                    "version": "3D"
+                },
+                {
+                    "enum": 4,
+                    "version": "IMAX3D"
+                }
+            ]
+        },
+        {
+            "id": 197596,
+            "t": "摩登年代",
+            "tCn": "摩登年代",
+            "tEn": "Fake Fiction",
+            "r": 7.8,
+            "rc": 3161,
+            "img": "http://img31.mtime.cn/mt/2013/08/19/141617.65211482_500X500.jpg",
+            "dN": "邵晓黎",
+            "aN1": "徐峥",
+            "aN2": "张子枫",
+            "p": [
+                "剧情",
+                "喜剧"
+            ],
+            "rd": "20130823",
+            "d": "93分钟",
+            "cC": 87,
+            "sC": 462,
+            "rsC": 0,
+            "NearestCinemaCount": 85,
+            "NearestShowtimeCount": 344,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "“熊孩子”+“喜当爹”的节奏",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 146649,
+            "t": "环太平洋",
+            "tCn": "环太平洋",
+            "tEn": "Pacific Rim",
+            "r": 7.9,
+            "rc": 20719,
+            "img": "http://img31.mtime.cn/mt/2013/07/24/090959.16205396_500X500.jpg",
+            "dN": "吉尔莫·德尔·托罗",
+            "aN1": "查理·汉纳姆",
+            "aN2": "伊德瑞斯·艾尔巴",
+            "p": [
+                "动作",
+                "冒险",
+                "奇幻",
+                "科幻"
+            ],
+            "rd": "20130731",
+            "d": "131分钟",
+            "cC": 39,
+            "sC": 168,
+            "rsC": 0,
+            "NearestCinemaCount": 39,
+            "NearestShowtimeCount": 127,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "金属质感酷毙了",
+            "is3D": true,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 2,
+                    "version": "3D"
+                }
+            ]
+        },
+        {
+            "id": 181912,
+            "t": "激战",
+            "tCn": "激战",
+            "tEn": "Unbeatable",
+            "r": 8,
+            "rc": 5533,
+            "img": "http://img31.mtime.cn/mt/2013/07/26/073349.71633383_500X500.jpg",
+            "dN": "林超贤",
+            "aN1": "张家辉",
+            "aN2": "彭于晏",
+            "p": [
+                "剧情",
+                "动作"
+            ],
+            "rd": "20130816",
+            "d": "122分钟",
+            "cC": 33,
+            "sC": 155,
+            "rsC": 0,
+            "NearestCinemaCount": 33,
+            "NearestShowtimeCount": 125,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "张弛有度，像极了人生的节奏",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 165195,
+            "t": "隔窗有眼",
+            "tCn": "隔窗有眼",
+            "tEn": "Night Blooming",
+            "r": 4.5,
+            "rc": 126,
+            "img": "http://img31.mtime.cn/mt/2013/08/23/161648.89669762_500X500.jpg",
+            "dN": "刘奋斗",
+            "aN1": "胡明",
+            "aN2": "乌达木",
+            "p": [
+                "惊悚",
+                "悬疑"
+            ],
+            "rd": "20130828",
+            "d": "95分钟",
+            "cC": 39,
+            "sC": 107,
+            "rsC": 0,
+            "NearestCinemaCount": 35,
+            "NearestShowtimeCount": 70,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 194542,
+            "t": "回到爱开始的地方",
+            "tCn": "回到爱开始的地方",
+            "tEn": "A Moment Of Love",
+            "r": 7.6,
+            "rc": 2248,
+            "img": "http://img31.mtime.cn/mt/2013/08/16/141827.68194329_500X500.jpg",
+            "dN": "林孝谦",
+            "aN1": "周渝民",
+            "aN2": "刘诗诗",
+            "p": [
+                "爱情",
+                "剧情"
+            ],
+            "rd": "20130823",
+            "d": "90分钟",
+            "cC": 21,
+            "sC": 71,
+            "rsC": 0,
+            "NearestCinemaCount": 21,
+            "NearestShowtimeCount": 57,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "低吟浅唱，边走边爱",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 190876,
+            "t": "周恩来的四个昼夜",
+            "tCn": "周恩来的四个昼夜",
+            "tEn": "The Story Of Zhou Enlai",
+            "r": 4.7,
+            "rc": 206,
+            "img": "http://img31.mtime.cn/mt/2013/07/15/094108.99066228_500X500.jpg",
+            "dN": "陈力",
+            "aN1": "孙维民",
+            "aN2": "郝岩",
+            "p": [
+                "剧情",
+                "历史"
+            ],
+            "rd": "20130716",
+            "d": "106分钟",
+            "cC": 24,
+            "sC": 90,
+            "rsC": 0,
+            "NearestCinemaCount": 19,
+            "NearestShowtimeCount": 44,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 159903,
+            "t": "粉红女郎·爱人快跑",
+            "tCn": "粉红女郎·爱人快跑",
+            "tEn": "Pink Lady：Lover Run",
+            "r": 3.9,
+            "rc": 219,
+            "img": "http://img31.mtime.cn/mt/2013/08/12/144622.74575413_500X500.jpg",
+            "dN": "伍宗德",
+            "aN1": "阿雅",
+            "aN2": "张馨予",
+            "p": [
+                "喜剧",
+                "爱情",
+                "剧情"
+            ],
+            "rd": "20130823",
+            "d": "100分钟",
+            "cC": 12,
+            "sC": 43,
+            "rsC": 0,
+            "NearestCinemaCount": 12,
+            "NearestShowtimeCount": 31,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "张馨予的男人婆霸气侧漏",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 182126,
+            "t": "一夜惊喜",
+            "tCn": "一夜惊喜",
+            "tEn": "One Night Surprise",
+            "r": 6.2,
+            "rc": 9744,
+            "img": "http://img31.mtime.cn/mt/2013/07/31/103506.36688863_500X500.jpg",
+            "dN": "金依萌",
+            "aN1": "范冰冰",
+            "aN2": "李治廷",
+            "p": [
+                "爱情",
+                "喜剧"
+            ],
+            "rd": "20130809",
+            "d": "106分钟",
+            "cC": 15,
+            "sC": 42,
+            "rsC": 0,
+            "NearestCinemaCount": 15,
+            "NearestShowtimeCount": 30,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "一个小蝌蚪找爸爸的故事",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 198132,
+            "t": "小时代：青木时代",
+            "tCn": "小时代：青木时代",
+            "tEn": "Tiny Times 2",
+            "r": 3.2,
+            "rc": 27921,
+            "img": "http://img31.mtime.cn/mt/2013/07/29/111915.30506407_500X500.jpg",
+            "dN": "郭敬明",
+            "aN1": "杨幂",
+            "aN2": "郭采洁",
+            "p": [
+                "爱情",
+                "剧情"
+            ],
+            "rd": "20130808",
+            "d": "116分钟",
+            "cC": 12,
+            "sC": 36,
+            "rsC": 0,
+            "NearestCinemaCount": 12,
+            "NearestShowtimeCount": 26,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "一支超负荷黑暗MV",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 199103,
+            "t": "我爱灰太狼2",
+            "tCn": "我爱灰太狼2",
+            "tEn": "I Love wolffy 2",
+            "r": 3.8,
+            "rc": 2686,
+            "img": "http://img31.mtime.cn/mt/2013/07/29/100854.73729394_500X500.jpg",
+            "dN": "叶凯",
+            "aN1": "赵英俊",
+            "aN2": "王智",
+            "p": [
+                "动画",
+                "剧情"
+            ],
+            "rd": "20130801",
+            "d": "88分钟",
+            "cC": 8,
+            "sC": 27,
+            "rsC": 0,
+            "NearestCinemaCount": 8,
+            "NearestShowtimeCount": 16,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "平底锅的Size还是不够大",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 200679,
+            "t": "小神来了",
+            "tCn": "小神来了",
+            "tEn": "The Best Kids",
+            "r": -1,
+            "rc": 1150,
+            "img": "http://img31.mtime.cn/mt/2013/07/31/142444.20359877_500X500.jpg",
+            "dN": "杜鹏",
+            "aN1": "邱启明",
+            "aN2": "柳岩",
+            "p": [
+                "家庭",
+                "喜剧"
+            ],
+            "rd": "20130815",
+            "d": "91分钟",
+            "cC": 5,
+            "sC": 13,
+            "rsC": 0,
+            "NearestCinemaCount": 5,
+            "NearestShowtimeCount": 10,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "中国版‘小鬼当家’恶整倒霉蛋",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 102705,
+            "t": "了不起的盖茨比",
+            "tCn": "了不起的盖茨比",
+            "tEn": "The Great Gatsby",
+            "r": 8.2,
+            "rc": 2533,
+            "img": "http://img31.mtime.cn/mt/2013/08/17/141133.74652904_500X500.jpg",
+            "dN": "巴兹·鲁曼",
+            "aN1": "莱昂纳多·迪卡普里奥",
+            "aN2": "凯瑞·穆丽根",
+            "p": [
+                "剧情",
+                "爱情"
+            ],
+            "rd": "20130830",
+            "d": "142分钟",
+            "cC": 39,
+            "sC": 361,
+            "rsC": 0,
+            "NearestCinemaCount": 9,
+            "NearestShowtimeCount": 9,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": true,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                },
+                {
+                    "enum": 2,
+                    "version": "3D"
+                }
+            ]
+        },
+        {
+            "id": 190544,
+            "t": "宫锁沉香",
+            "tCn": "宫锁沉香",
+            "tEn": "The Palace",
+            "r": 5.1,
+            "rc": 4611,
+            "img": "http://img31.mtime.cn/mt/2013/08/01/150814.10446785_500X500.jpg",
+            "dN": "潘安子",
+            "aN1": "周冬雨",
+            "aN2": "陈晓",
+            "p": [
+                "爱情",
+                "剧情",
+                "古装"
+            ],
+            "rd": "20130813",
+            "d": "115分钟",
+            "cC": 6,
+            "sC": 11,
+            "rsC": 0,
+            "NearestCinemaCount": 6,
+            "NearestShowtimeCount": 7,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "想象力最丰富的雍正夺位过程\n",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 199136,
+            "t": "昆塔·盒子总动员",
+            "tCn": "昆塔·盒子总动员",
+            "tEn": "Kunta/Bonta",
+            "r": 7.9,
+            "rc": 884,
+            "img": "http://img31.mtime.cn/mt/2013/07/23/155227.34752014_500X500.jpg",
+            "dN": "李炼",
+            "aN1": "吴磊",
+            "aN2": "",
+            "p": [
+                "动画",
+                "冒险",
+                "家庭",
+                "喜剧"
+            ],
+            "rd": "20130802",
+            "d": "80分钟",
+            "cC": 6,
+            "sC": 10,
+            "rsC": 0,
+            "NearestCinemaCount": 4,
+            "NearestShowtimeCount": 5,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "奶泡泡完胜主角菠菜",
+            "is3D": true,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                },
+                {
+                    "enum": 2,
+                    "version": "3D"
+                }
+            ]
+        },
+        {
+            "id": 201620,
+            "t": "青春派",
+            "tCn": "青春派",
+            "tEn": "Young Style",
+            "r": 7.4,
+            "rc": 2121,
+            "img": "http://img31.mtime.cn/mt/2013/07/31/103505.25455290_500X500.jpg",
+            "dN": "刘杰",
+            "aN1": "董子健",
+            "aN2": "秦海璐",
+            "p": [
+                "剧情"
+            ],
+            "rd": "20130802",
+            "d": "91分钟",
+            "cC": 5,
+            "sC": 7,
+            "rsC": 0,
+            "NearestCinemaCount": 4,
+            "NearestShowtimeCount": 5,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "高三的苦难像没有尽头却一下无影踪 \n",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 205036,
+            "t": "牛胆神偷",
+            "tCn": "牛胆神偷",
+            "tEn": "Big Thief",
+            "r": -1,
+            "rc": 72,
+            "img": "http://img31.mtime.cn/mt/2013/08/12/140048.88580197_500X500.jpg",
+            "dN": "冯自立",
+            "aN1": "英达",
+            "aN2": "苗圃",
+            "p": [
+                "剧情",
+                "犯罪",
+                "喜剧"
+            ],
+            "rd": "20130822",
+            "d": "94分钟",
+            "cC": 3,
+            "sC": 5,
+            "rsC": 0,
+            "NearestCinemaCount": 2,
+            "NearestShowtimeCount": 3,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 148481,
+            "t": "来历不明",
+            "tCn": "来历不明",
+            "tEn": "Unidentified",
+            "r": 6.1,
+            "rc": 255,
+            "img": "http://img31.mtime.cn/mt/2013/07/31/145236.49722753_500X500.jpg",
+            "dN": "陈楚童",
+            "aN1": "陈楚童",
+            "aN2": "蒋梦婕",
+            "p": [
+                "剧情",
+                "科幻",
+                "悬疑"
+            ],
+            "rd": "20130823",
+            "d": "95分钟",
+            "cC": 1,
+            "sC": 3,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 3,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 140858,
+            "t": "闯堂兔",
+            "tCn": "闯堂兔",
+            "tEn": "Brave Rabbit",
+            "r": 5.4,
+            "rc": 92,
+            "img": "http://img21.mtime.cn/mt/2011/09/14/173121.15800754_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=110930170942177209",
+            "dN": "曾宪林",
+            "aN1": "",
+            "aN2": "",
+            "p": [
+                "动画",
+                "剧情",
+                "儿童"
+            ],
+            "rd": "20111001",
+            "d": "90分钟",
+            "cC": 1,
+            "sC": 3,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 3,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 184034,
+            "t": "小时代",
+            "tCn": "小时代",
+            "tEn": "Tiny Times",
+            "r": 3.6,
+            "rc": 43879,
+            "img": "http://img31.mtime.cn/mt/2013/06/18/150525.41204800_500X500.jpg",
+            "dN": "郭敬明",
+            "aN1": "杨幂",
+            "aN2": "郭采洁",
+            "p": [
+                "爱情",
+                "剧情"
+            ],
+            "rd": "20130627",
+            "d": "116分钟",
+            "cC": 1,
+            "sC": 2,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 2,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "没有物质的爱情只是一盘沙\n\n",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 104696,
+            "t": "叶问2：宗师传奇",
+            "tCn": "叶问2：宗师传奇",
+            "tEn": "Ip Man 2",
+            "r": 7.5,
+            "rc": 18474,
+            "img": "http://img31.mtime.cn/mt/696/104696/104696_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=100416095428077958",
+            "dN": "叶伟信",
+            "aN1": "甄子丹",
+            "aN2": "洪金宝",
+            "p": [
+                "动作",
+                "传记"
+            ],
+            "rd": "20100427",
+            "d": "108分钟",
+            "cC": 2,
+            "sC": 2,
+            "rsC": 0,
+            "NearestCinemaCount": 2,
+            "NearestShowtimeCount": 2,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 201073,
+            "t": "诡魇",
+            "tCn": "诡魇",
+            "tEn": "Nightmare",
+            "r": 2.2,
+            "rc": 286,
+            "img": "http://img31.mtime.cn/mt/2013/07/29/151533.61378718_500X500.jpg",
+            "dN": "车悦",
+            "aN1": "李欣聪",
+            "aN2": "裘斯",
+            "p": [
+                "剧情",
+                "悬疑",
+                "惊悚"
+            ],
+            "rd": "20130816",
+            "d": "90分钟",
+            "cC": 2,
+            "sC": 3,
+            "rsC": 0,
+            "NearestCinemaCount": 2,
+            "NearestShowtimeCount": 2,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 141596,
+            "t": "窃听风云2",
+            "tCn": "窃听风云2",
+            "tEn": "Overheard 2",
+            "r": 7.8,
+            "rc": 10574,
+            "img": "http://img21.mtime.cn/mt/2011/08/08/141224.11508058_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=110817123422362893",
+            "dN": "麦兆辉",
+            "aN1": "吴彦祖",
+            "aN2": "古天乐",
+            "p": [
+                "动作",
+                "剧情",
+                "惊悚"
+            ],
+            "rd": "20110818",
+            "d": "121分钟",
+            "cC": 1,
+            "sC": 2,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 2,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 204616,
+            "t": "高铁英雄",
+            "tCn": "高铁英雄",
+            "tEn": "Train Heroes",
+            "r": 1.5,
+            "rc": 724,
+            "img": "http://img31.mtime.cn/mt/2013/08/07/104742.20889895_500X500.jpg",
+            "dN": "吴治邦",
+            "aN1": "李正翔",
+            "aN2": "夏磊",
+            "p": [
+                "动画",
+                "剧情"
+            ],
+            "rd": "20130816",
+            "d": "88分钟",
+            "cC": 2,
+            "sC": 3,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 0,
+                    "version": ""
+                },
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 136968,
+            "t": "一场风花雪月的事",
+            "tCn": "一场风花雪月的事",
+            "tEn": "Crimes of Passion",
+            "r": 6.1,
+            "rc": 2414,
+            "img": "http://img31.mtime.cn/mt/2013/08/02/100310.85416055_500X500.jpg",
+            "dN": "高群书",
+            "aN1": "杨颖",
+            "aN2": "黄晓明",
+            "p": [
+                "爱情",
+                "动作",
+                "犯罪"
+            ],
+            "rd": "20130808",
+            "d": "114分钟",
+            "cC": 1,
+            "sC": 9,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "东风恶欢情薄，越短暂才越美好",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 93105,
+            "t": "邻家特工",
+            "tCn": "邻家特工",
+            "tEn": "The Spy Next Door",
+            "r": 6.3,
+            "rc": 20164,
+            "img": "http://img31.mtime.cn/mt/1105/93105/93105_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=100304135645581605",
+            "dN": "布莱恩·莱温特",
+            "aN1": "成龙",
+            "aN2": "安贝·瓦莱塔",
+            "p": [
+                "家庭",
+                "喜剧",
+                "动作"
+            ],
+            "rd": "20100114",
+            "d": "94分钟",
+            "cC": 1,
+            "sC": 1,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 104455,
+            "t": "锦衣卫",
+            "tCn": "锦衣卫",
+            "tEn": "14 Blades",
+            "r": 6.1,
+            "rc": 26421,
+            "img": "http://img31.mtime.cn/mt/2012/08/26/114429.70997404_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=100311120207279283",
+            "dN": "李仁港",
+            "aN1": "甄子丹",
+            "aN2": "赵薇",
+            "p": [
+                "惊悚",
+                "剧情",
+                "动作"
+            ],
+            "rd": "20100203",
+            "d": "113分钟",
+            "cC": 1,
+            "sC": 1,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 133150,
+            "t": "天际浩劫",
+            "tCn": "天际浩劫",
+            "tEn": "Skyline",
+            "r": 5.5,
+            "rc": 5218,
+            "img": "http://img21.mtime.cn/mt/2010/10/21/141504.27348277_500X500.jpg",
+            "dN": "科林·施特劳斯",
+            "aN1": "艾里克·巴弗尔",
+            "aN2": "斯考蒂·汤姆森",
+            "p": [
+                "惊悚",
+                "科幻",
+                "动作"
+            ],
+            "rd": "20110603",
+            "d": "94分钟",
+            "cC": 1,
+            "sC": 1,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 117755,
+            "t": "B+侦探",
+            "tCn": "B+侦探",
+            "tEn": "The Detective 2",
+            "r": 6.5,
+            "rc": 15122,
+            "img": "http://img21.mtime.cn/mt/2011/03/09/102100.49912435_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=110429180607651943",
+            "dN": "彭顺",
+            "aN1": "郭富城",
+            "aN2": "廖启智",
+            "p": [
+                "惊悚",
+                "剧情",
+                "悬疑",
+                "犯罪"
+            ],
+            "rd": "20110429",
+            "d": "100分钟",
+            "cC": 1,
+            "sC": 1,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 132429,
+            "t": "白蛇传说",
+            "tCn": "白蛇传说",
+            "tEn": "Its Love",
+            "r": 6.8,
+            "rc": 9515,
+            "img": "http://img21.mtime.cn/mt/2011/08/29/163644.32263868_500X500.jpg",
+            "m": "http://api.mtime.com/trailer/getiphonevideo.aspx?vid=110929113736427070",
+            "dN": "程小东",
+            "aN1": "李连杰",
+            "aN2": "黄圣依",
+            "p": [
+                "动作",
+                "奇幻"
+            ],
+            "rd": "20110928",
+            "d": "100分钟",
+            "cC": 1,
+            "sC": 1,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 1,
+            "NearestDay": 1377734400,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 204677,
+            "t": "疯狂的导演",
+            "tCn": "疯狂的导演",
+            "tEn": "I am Director",
+            "r": 5.9,
+            "rc": 101,
+            "img": "http://img31.mtime.cn/mt/2013/08/28/112243.41573734_500X500.jpg",
+            "dN": "宋阳",
+            "aN1": "徐帆",
+            "aN2": "刘桦",
+            "p": [
+                "剧情",
+                "喜剧"
+            ],
+            "rd": "20130830",
+            "d": "92分钟",
+            "cC": 22,
+            "sC": 76,
+            "rsC": 0,
+            "NearestCinemaCount": 21,
+            "NearestShowtimeCount": 61,
+            "NearestDay": 1377820800,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 152391,
+            "t": "致命闪玩",
+            "tCn": "致命闪玩",
+            "tEn": "Flash Play",
+            "r": -1,
+            "rc": 62,
+            "img": "http://img31.mtime.cn/mt/2013/08/09/095745.52614647_500X500.jpg",
+            "dN": "咸旭初",
+            "aN1": "方力申",
+            "aN2": "李威",
+            "p": [
+                "剧情",
+                "冒险"
+            ],
+            "rd": "20130830",
+            "cC": 10,
+            "sC": 24,
+            "rsC": 0,
+            "NearestCinemaCount": 10,
+            "NearestShowtimeCount": 20,
+            "NearestDay": 1377820800,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 203473,
+            "t": "夏日示爱",
+            "tCn": "夏日示爱",
+            "tEn": "Sweet Summer Love",
+            "r": -1,
+            "rc": 79,
+            "img": "http://img31.mtime.cn/mt/2013/07/17/120614.63284470_500X500.jpg",
+            "dN": "陈家霖",
+            "aN1": "邓家佳",
+            "aN2": "王传君",
+            "p": [
+                "爱情",
+                "喜剧"
+            ],
+            "rd": "20130830",
+            "d": "94分钟",
+            "cC": 13,
+            "sC": 46,
+            "rsC": 0,
+            "NearestCinemaCount": 12,
+            "NearestShowtimeCount": 26,
+            "NearestDay": 1377820800,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": true,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        },
+        {
+            "id": 140904,
+            "t": "极乐空间",
+            "tCn": "极乐空间",
+            "tEn": "Elysium",
+            "r": 8.7,
+            "rc": 729,
+            "img": "http://img31.mtime.cn/mt/2013/08/17/142052.98556009_500X500.jpg",
+            "dN": "尼尔·布洛姆坎普",
+            "aN1": "马特·达蒙",
+            "aN2": "朱迪·福斯特",
+            "p": [
+                "动作",
+                "剧情",
+                "科幻",
+                "惊悚"
+            ],
+            "rd": "20130905",
+            "d": "109分钟",
+            "cC": 1,
+            "sC": 2,
+            "rsC": 0,
+            "NearestCinemaCount": 1,
+            "NearestShowtimeCount": 2,
+            "NearestDay": 1378339200,
+            "ua": 0,
+            "isNew": false,
+            "isTicket": false,
+            "commonSpecial": "",
+            "is3D": false,
+            "isIMAX": false,
+            "versions": [
+                {
+                    "enum": 1,
+                    "version": "2D"
+                }
+            ]
+        }
+    ]
+}
